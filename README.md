@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sammy Hutchinson</h1>
 <h3 align="center">A passionate frontend developer from England</h3>
 
-- 🌱 I’m currently learning **JavaScript, Figma, Tailwind**
+- 🌱 I’m currently learning **Python, Next.js and React**
 
-- 💬 Ask me about **Javascript**
+- 💬 Ask me about **My Code Wars**
 
 - 📫 How to reach me **hutc0173@algonquinlive.com**
 
