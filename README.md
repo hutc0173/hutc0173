@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sammy Hutchinson</h1>
-<h3 align="center">A passionate UX designer with strong developer from England. I can turn creative visions into reality</h3>
+<h3 align="center">A passionate UX designer with strong developer skills from England. I can turn creative visions into reality</h3>
 
 - 🌱 I’m currently learning **Python, Next.js and React**
 
