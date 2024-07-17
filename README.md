@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sammy Hutchinson</h1>
-<h3 align="center">A passionate frontend developer from England</h3>
+<h3 align="center">A passionate UX designer with strong developer from England. I can turn creative visions into reality</h3>
 
 - 🌱 I’m currently learning **Python, Next.js and React**
 
-- 💬 Ask me about **My Code Wars**
+- 💬 Ask me about **My Code Wars** or any of my **travel adventures**
 
-- 📫 How to reach me **hutc0173@algonquinlive.com**
+- 📫 How to reach me **sammy.devdesign@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
