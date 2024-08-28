@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sammy Hutchinson</h1>
-<h3 align="center">A passionate UX designer with strong developer skills from England. I can turn creative visions into reality</h3>
+<h3 align="center">"Software Developer with a strong understanding of design and design principles || Crafting Seamless User Experiences with a Code-Informed Design Approach || Bridging Creativity and Functionality</h3>
 
-- 🌱 I’m currently learning **Python, Next.js and React**
+- 🌱 I’m currently learning more on **Python, Next.js and React**
 
 - 💬 Ask me about **My Code Wars** or any of my **travel adventures**
 
